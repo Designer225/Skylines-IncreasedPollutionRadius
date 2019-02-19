@@ -11,7 +11,7 @@ namespace IncreasedPollutionRadius
         }
 
         [TextField("Increase factor (default 10")]
-        public int factor { get; private set;  }
+        public float factor { get; private set;  }
 
         [XmlIgnore]
         public string FileName => "CSL-IncreasedPollutionRadius";

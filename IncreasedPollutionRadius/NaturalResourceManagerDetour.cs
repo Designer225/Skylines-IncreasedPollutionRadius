@@ -5,7 +5,7 @@ using IncreasedPollutionRadius.OptionsFramework;
 using IncreasedPollutionRadius.Redirection;
 using UnityEngine;
 
-namespace IncreasedPollutionRadius.Detours
+namespace IncreasedPollutionRadius
 {
     [TargetType(typeof(NaturalResourceManager))]
     public class NaturalResourceManagerDetour : NaturalResourceManager

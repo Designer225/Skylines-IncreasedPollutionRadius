@@ -66,7 +66,7 @@
     <Reference Include="System" />
     <Reference Include="System.Xml" />
     <Reference Include="UnityEngine">
-      <HintPath>D:\SteamLibrary\steamapps\common\Cities_Skylines\Cities_Data\ManagedUnityEngine.dll</HintPath>
+      <HintPath>D:\SteamLibrary\steamapps\common\Cities_Skylines\Cities_Data\Managed\UnityEngine.dll</HintPath>
     </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
